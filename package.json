@@ -63,7 +63,7 @@
     "material-design-iconic-font": "^2.2.0",
     "moment": "^2.19.3",
     "mousetrap": "^1.6.1",
-    "mustache": "^2.3.0",
+    "mustache": "^3.2.1",
     "numeral": "^2.0.6",
     "path-to-regexp": "^3.1.0",
     "prop-types": "^15.6.1",
